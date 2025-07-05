@@ -54,7 +54,7 @@ This project presents a comprehensive analysis of Amazon product listings using 
 
 ## 👩🏽‍💻 About Me
 
-I’m **Oluwole Victoria**, a graduate of Agricultural Administration with a growing passion for data analysis. This project is part of my learning journey to master Excel-based analysis and develop professional dashboards.
+I’m **Oluwole Victoria**, a young techie with a growing passion for data analysis. This project is part of my learning journey to master Excel-based analysis and develop professional dashboards with the INCUBATOR HUB.
 
 ---
 
